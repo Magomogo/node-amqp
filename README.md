@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/postwait/node-amqp.png)](http://travis-ci.org/postwait/node-amqp)
+[![build status](https://secure.travis-ci.org/Magomogo/node-amqp.png)](http://travis-ci.org/Magomogo/node-amqp)
 
 # node-amqp
 
